@@ -13,6 +13,10 @@ h2{
     color:#615d5b;
 }
 
+h3{
+    font-size: 35px;
+}
+
 .inline-clolor-text{
     color: orange;
 }
@@ -35,6 +39,11 @@ h2{
 .diet-part p{
     text-align: justify;
     margin-bottom: 50px;
+    
+ }
+
+ #d-p-text{
+    color: grey;
  }
  
  .link-button {
@@ -60,3 +69,77 @@ h2{
 .middel-text {
       margin-right: 10%;
 }
+
+#receipe-block{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#recipe-top {
+    margin-top: -10%;
+}
+.recipe h2{
+    text-align: center;
+}
+
+.recipe p{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.recipe-item {
+    width: 30%;
+    box-shadow: 15px 10px 30px #e2dcdc;
+    padding: 20px;
+    border-radius: 15px;
+    position: relative;
+}
+
+#subcribe {
+    padding: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 10px 30px #e2dcdc;
+}
+
+.recipe-item img{
+    border-radius: 15px;
+}
+
+.footer{
+    background-color: black;
+    height: 200px;
+}
+
+.footer h4{
+    color: grey;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.footer p{
+    color: white;
+    text-align: center;
+}
+
+.footer-clolor-text{
+    color: orange;
+}
+
+#footer-all-text{
+    margin-top: 10%;
+}
+
+.subcribe-item{
+    text-align: center;
+    width: 33%;
+}
+
+.subcribe-item h1{
+    color: black;
+}
+
