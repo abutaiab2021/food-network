@@ -8,13 +8,17 @@ h1{
     color:#615d5b;
 }
 
+h2{
+    font-size: 40px;
+    color:#615d5b;
+}
+
 .inline-clolor-text{
     color: orange;
 }
 
 .container{
     display: flex;
-    margin-bottom: 100px;
 }
 
 .diet-part{
@@ -27,15 +31,32 @@ h1{
     width: 100%;
 }
 
-.diet-part p{
-   text-align: justify;
-}
 
-.link-button{
+.diet-part p{
+    text-align: justify;
+    margin-bottom: 50px;
+ }
+ 
+ .link-button {
     text-decoration: none;
     color: white;
-    padding: 10px 30px;
-    border-radius: 20px;
+    padding: 15px 35px;
+    border-radius: 25px;
     font-weight: 700;
     background-image: linear-gradient(orange,tomato);
+}
+
+.middel-part{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.middel-part-img img {
+    width: 76%;
+    height: 85%;
+    margin-left: 25%;
+}
+
+.middel-text {
+      margin-right: 10%;
 }
